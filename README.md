@@ -4,7 +4,7 @@
 
 * Current MCS student at <img src="https://www.uottawa.ca/themes/custom/uottawa/dist/assets/logo.svg" alt="uOttawa" height="30" />
 
-* Studied Software Engineering at HIT <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Harbin_Institute_of_Technology_%28crest%29.gif/300px-Harbin_Institute_of_Technology_%28crest%29.gif" alt="HIT" height="35" color>
+* Studied Software Engineering at HIT
 * Full-stack Software Engineer
 * I'm interested in Web Development and Applied AI.
 
