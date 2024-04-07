@@ -7,7 +7,7 @@
 * Studied Software Engineering at HIT
 * Full-stack Software Engineer
 * I'm interested in Web Development and Applied AI.
-* Check out my personal website at [Eric Yuxuan Sun](https://github.com/Erostrate9/Erostrate9.github.io "blog")
+* Check out my personal website at [Eric Yuxuan Sun](https://Erostrate9.github.io "blog")
 
 ### :handshake: Connect with Me
 
