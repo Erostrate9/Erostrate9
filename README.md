@@ -1,9 +1,8 @@
 ### 👋 Hi there! I'm [Eric Sun](https://github.com/erostrate9)! 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=erostrate9&count_private=true&show_icons=true&theme=react/">
-
 * Current MCS student at <img src="https://www.uottawa.ca/themes/custom/uottawa/dist/assets/logo.svg" alt="uOttawa" height="30" />
-
+* I'm open to a New Grad position in the winter of 2026.
 * Studied Software Engineering at HIT
 * Full-stack Software Engineer
 * I'm interested in Web Development and Applied AI.
