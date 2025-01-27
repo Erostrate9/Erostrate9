@@ -2,10 +2,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=erostrate9&count_private=true&show_icons=true&theme=react/">
 
-* Current MCS student at <img src="https://www.uottawa.ca/themes/custom/uottawa/dist/assets/logo.svg" alt="uOttawa" height="30" />
+* I'm a test developer intern at [Kinaxis](https://www.kinaxis.com/en),
+* also a current MCS student at <img src="https://www.uottawa.ca/themes/custom/uottawa/dist/assets/logo.svg" alt="uOttawa" height="30" />
+* I have a Bachelor's degree in Software Engineering from HIT.
 * I'm open to a New Grad position in the winter of 2026.
-* Studied Software Engineering at HIT
-* Full-stack Software Engineer
 * I'm interested in Web Development and Applied AI.
 * Check out my personal website at [Eric Yuxuan Sun](https://Erostrate9.github.io "blog")
 
@@ -27,7 +27,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
