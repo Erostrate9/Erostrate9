@@ -2,11 +2,11 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=erostrate9&count_private=true&show_icons=true&theme=react/">
 
-* I'm a test developer intern at [Kinaxis](https://www.kinaxis.com/en),
-* also a current MCS student at <img src="https://www.uottawa.ca/themes/custom/uottawa/dist/assets/logo.svg" alt="uOttawa" height="30" />
-* I have a Bachelor's degree in Software Engineering from HIT.
-* I'm open to a New Grad position in the winter of 2026.
-* I'm interested in Web Development and Applied AI.
+* I'm a software developer intern at [Kinaxis](https://www.kinaxis.com/en),
+* also a Master's student at <img src="https://www.uottawa.ca/themes/custom/uottawa/dist/assets/logo.svg" alt="uOttawa" height="30" />
+* I obtained my Bachelor's degree in Software Engineering at HIT.
+* I’m currently exploring New Grad opportunities (full-time or internship) for Summer 2026.
+* I'm interested in back-end Development and Applied AI.
 * Check out my personal website at [Eric Yuxuan Sun](https://Erostrate9.github.io "blog")
 
 ### :handshake: Connect with Me
